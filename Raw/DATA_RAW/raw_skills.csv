@@ -1,0 +1,17 @@
+_id,name,description,department,level
+66fe5780e5bacba987a6b87a,Data Warehousing,Techniques for collecting and managing data from various sources.,66fe298f1cf3c64a6475331d,Advanced
+66fe5780e5bacba987a6b87b,ETL Processes,"Extract, Transform, Load processes for data integration.",66fe298f1cf3c64a6475331d,Intermediate
+66fe5780e5bacba987a6b87c,Data Modeling,Designing data structures and databases.,66fe298f1cf3c64a6475331d,Advanced
+66fe5780e5bacba987a6b87d,Big Data Technologies,Technologies like Hadoop and Spark.,66fe298f1cf3c64a6475331d,Intermediate
+66fe5780e5bacba987a6b87e,Machine Learning,Algorithms that allow computers to learn from data.,66fe298f1cf3c64a64753323,Advanced
+66fe5780e5bacba987a6b87f,Statistical Analysis,Using statistical methods to analyze data.,66fe298f1cf3c64a64753323,Intermediate
+66fe5780e5bacba987a6b880,Data Visualization,Representing data graphically.,66fe298f1cf3c64a64753323,Intermediate
+66fe5780e5bacba987a6b881,Natural Language Processing,Techniques for analyzing human language.,66fe298f1cf3c64a64753323,Advanced
+66fe5780e5bacba987a6b882,React.js,JavaScript library for building user interfaces.,66fe298f1cf3c64a64753329,Intermediate
+66fe5780e5bacba987a6b883,Node.js,JavaScript runtime built on Chrome's V8 engine.,66fe298f1cf3c64a64753329,Intermediate
+66fe5780e5bacba987a6b884,RESTful APIs,Architectural style for designing networked applications.,66fe298f1cf3c64a64753329,Advanced
+66fe5780e5bacba987a6b885,Database Management,Skills in SQL and NoSQL databases.,66fe298f1cf3c64a64753329,Intermediate
+66fe5780e5bacba987a6b886,Project Management,Skills in planning and executing projects.,66fe298f1cf3c64a6475332f,Advanced
+66fe5780e5bacba987a6b887,Business Strategy,Formulating strategies for business growth.,66fe298f1cf3c64a6475332f,Advanced
+66fe5780e5bacba987a6b888,Stakeholder Engagement,Managing relationships with stakeholders.,66fe298f1cf3c64a6475332f,Intermediate
+66fe5780e5bacba987a6b889,Market Research,Skills in analyzing market conditions.,66fe298f1cf3c64a6475332f,Intermediate
